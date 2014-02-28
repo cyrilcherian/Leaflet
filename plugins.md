@@ -1098,6 +1098,16 @@ While Leaflet is meant to be as lightweight as possible, and focuses on a core s
 			<a href="https://github.com/aratcliffe">Adam Ratcliffe</a>
 		</td>
 	</tr>
+    <tr>
+		<td>
+			<a href="https://github.com/cyrilcherian/Leaflet-Fullcanvas">Leaflet FullCanvas</a>
+		</td><td>
+			Provides implementation of points using a single Canvas. The plugin uses the quad tree algorithm to minimize/optimize the number of points to be drawn.
+		</td><td>
+			<a href="https://github.com/cyrilcherian">Cyril Cherian</a>
+		</td>
+	</tr>
+	
 </table>
 
 To submit your own Leaflet plugin to this list, just send a pull request with the addition to Leaflet repo's [gh-pages branch](https://github.com/Leaflet/Leaflet/tree/gh-pages) (`plugins.md` file).
