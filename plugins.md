@@ -92,6 +92,15 @@ While Leaflet is meant to be as lightweight as possible, and focuses on a core s
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/cyrilcherian/Leaflet-Fullcanvas">FullCanvas</a>
+		</td><td>
+			Provides implementation of points using canvas. The plugin uses the quad tree algorithm to minimize/optimize the number of points to be drawn.
+		</td><td>
+			<a href="https://github.com/cyrilcherian">Cyril Cherian</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/sunng87/heatcanvas">HeatCanvas</a>
 		</td><td>
 			Simple heatmap api based on HTML5 canvas.
